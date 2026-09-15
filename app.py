@@ -9,5 +9,5 @@ if a>=20:
     print("hace calor") 
 elif a<=20:
     print("hace frio") 
-else a==20:
+else:
     print("agradable")
