@@ -7,4 +7,4 @@ temperatura = st.number_input(
     value=20)
 if a>=20: print("hace calor") 
 elif a<=20: print("hace frio") 
-else a==20 print("agradable")
+else a==20: print("agradable")
